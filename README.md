@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Rafay+%F0%9F%91%8B;Automation+Consultant+%7C+AI+Engineer;Building+Smart+Workflows+That+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rafay+%F0%9F%91%8B;Automation+Consultant+%7C+AI+Engineer;Building+Smart+Workflows+That+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:nottafybutreal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://wa.me/923451565121"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https:linkedin.com/in/abdul-rafay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/abdul-rafay-200249421"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/rafay-u"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Location-Islamabad%2C_Pakistan-00D9FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Timezone-PST_(UTC%2B5)-00D9FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Available_For-Freelance%2FContract-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Response_Time-%3C_24h-00D9FF?style=flat-square" />
 </p>
 
 ---
@@ -21,13 +22,17 @@
 
 **Automation Consultant** specializing in **n8n** and **AI-powered workflows** for real business problems. I design end-to-end systems that connect AI models, messaging platforms, databases, and APIs to eliminate manual work.
 
+> **"Automation isn't about replacing humans — it's about removing the robotic work so humans can do the human work."**
+
 ### What I Build
-- **RAG Systems** — Grounded agents with vector databases (Qdrant, Supabase)
-- **MCP Integrations** — Connect AI agents to live tools & data via Model Context Protocol
-- **Voice Agents** — Vapi + ElevenLabs for automated calls
-- **Local Agents** — Self-hosted, privacy-first workflows (Hermes Agent, Ollama)
-- **Context Engineering** — Reliable prompt architecture & memory design
-- **Lead Gen Pipelines** — Discovery → Research → Outreach (Email + Voice) fully automated
+| Domain | Examples |
+|--------|----------|
+| **RAG Systems** | Grounded agents with Qdrant, Supabase pgvector, hybrid search |
+| **MCP Integrations** | Connect AI agents to live tools & data via Model Context Protocol |
+| **Voice Agents** | Vapi + ElevenLabs for automated inbound/outbound calls |
+| **Local Agents** | Self-hosted, privacy-first (Hermes Agent, Ollama, llama.cpp) |
+| **Context Engineering** | Reliable prompt architecture, memory loops, few-shot design |
+| **Lead Gen Pipelines** | Discovery → Research → Outreach (Email + Voice) fully automated |
 
 ---
 
@@ -109,41 +114,31 @@ Fully automated: story generation → scene splitting → parallel rendering →
 
 ---
 
-## 🧠 Core Competencies
+## 📦 Open Source
 
-| Domain | Skills |
-|--------|--------|
-| **Workflow Automation** | n8n (advanced), Custom nodes, Error handling, Scaling |
-| **RAG & Vector Search** | Qdrant, Supabase pgvector, Embeddings, Hybrid search, Re-ranking |
-| **Agent Architecture** | Hermes Agent, Local LLMs (Ollama), MCP servers, Context engineering |
-| **Voice AI** | Vapi, ElevenLabs, Twilio Voice, Call flows, Interruption handling |
-| **ML Integration** | Vision models (Qwen-VL), LLM routing (Groq), Structured outputs |
-| **Data Engineering** | Airtable as backend, Supabase/PostgreSQL, ETL pipelines, Deduplication |
-| **DevOps** | Docker, Docker Compose, Self-hosted infra, Health checks, Restart policies |
-
----
-
-## 📦 Open Source Contributions
-
-### `hermes-memory-loop-goap` — *This Repository*
-**Persistent memory system for AI agents** with 8-step validation loop, GOAP research subagent, and orchestration gate.
+### `hermes-memory-loop-goap` ⭐
+**Persistent memory system for AI agents** — 8-step validation loop + GOAP research subagent + orchestration gate.
 
 ```bash
 # Install in Hermes Agent
-git clone https://github.com/YOUR_USERNAME/hermes-memory-loop-goap.git
+git clone https://github.com/rafay-u/hermes-memory-loop-goap.git
 cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-agents/
 ```
 
-**Features:**
-- 🔄 Retrieve → Validate → Apply → Write-back loop
-- 🔬 GOAP research subagent (parallel, non-blocking)
-- 🛡 Single Source of Truth + Gate (no research pollution)
-- ⏱ Freshness decay (30-day half-life) + Scheduled sweeps
-- 📋 Qdrant schema with full validation
-- 🤝 Dual-agent workspace (Hermes + Claude Code)
+**Features:** Retrieve→Validate→Apply→Write-back • GOAP parallel research • Gate (SOT) • Freshness decay • Scheduled sweeps • Dual-agent (Hermes + Claude Code)
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafay-u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-u&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafay-u&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" height="170" />
+</p>
 
 ---
 
@@ -160,10 +155,10 @@ cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-
 
 | Service | Description |
 |---------|-------------|
-| **n8n Workflow Development** | Custom automations, complex logic, error handling |
-| **RAG System Design** | Vector DB selection, chunking strategy, retrieval tuning |
-| **AI Agent Architecture** | Memory loops, tool use, multi-agent systems |
-| **Voice Automation** | Vapi/Twilio call flows, ElevenLabs voice design |
+| **n8n Workflow Development** | Custom automations, complex logic, error handling, scaling |
+| **RAG System Design** | Vector DB selection, chunking strategy, retrieval tuning, re-ranking |
+| **AI Agent Architecture** | Memory loops, tool use, multi-agent systems, MCP servers |
+| **Voice Automation** | Vapi/Twilio call flows, ElevenLabs voice design, interruption handling |
 | **Lead Gen Pipelines** | Discovery → Enrichment → Outreach (Email + Voice) |
 | **Consulting & Audit** | Existing n8n/RAG/agent system review & optimization |
 
@@ -172,10 +167,9 @@ cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-
 ## 📬 Let's Connect
 
 <p align="center">
-  <strong>📧 Email:</strong> <a href="mailto:nottafybutreal@gmail.com">nottafybutreal@gmail.com</a><br>
-  <strong>📱 WhatsApp:</strong> <a href="https://wa.me/923451565121">+92 345 156 5121</a><br>
-  <strong>💼 LinkedIn:</strong> <a href=<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdul-rafay-200249421" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdul-rafay-200249421?trk=profile-badge">Abdul Rafay</a></div>
-              >linkedin.com/in/rafay-automation</a><br>
+  <strong>📧 Email:</strong> <a href="mailto:nottafybutreal@gmail.com">nottafybutreal@gmail.com</a> &nbsp;|&nbsp;
+  <strong>📱 WhatsApp:</strong> <a href="https://wa.me/923451565121">+92 345 156 5121</a> &nbsp;|&nbsp;
+  <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/abdul-rafay-200249421">linkedin.com/in/abdul-rafay-200249421</a> &nbsp;|&nbsp;
   <strong>🐙 GitHub:</strong> <a href="https://github.com/rafay-u">github.com/rafay-u</a>
 </p>
 
@@ -185,21 +179,18 @@ cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
 </p>
 
-<p align="center">
-  <em>"Automation isn't about replacing humans — it's about removing the robotic work so humans can do the human work."</em>
-</p>
-
----
-
 <details>
-<summary><strong>🔧 Quick Setup Commands</strong></summary>
+<summary><strong>🔧 Quick Setup: Qdrant + Ollama + Hermes</strong></summary>
 
 ```bash
-# Qdrant + Ollama (required for Hermes memory loop)
-docker run -d --name qdrant --restart unless-stopped -p 6333:6333 -v qdrant_storage:/qdrant/storage qdrant/qdrant:v1.19.0
+# Qdrant (vector DB)
+docker run -d --name qdrant --restart unless-stopped \
+  -p 6333:6333 -v qdrant_storage:/qdrant/storage qdrant/qdrant:v1.19.0
+
+# Ollama (embeddings)
 ollama pull nomic-embed-text && ollama serve &
 
-# Hermes Agent skill install
+# Hermes skill
 cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-agents/
 
 # Verify
