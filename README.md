@@ -147,12 +147,12 @@ cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafay-u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-u&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafay-u&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -184,8 +184,9 @@ cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-
 <p align="center">
   <strong>📧 Email:</strong> <a href="mailto:nottafybutreal@gmail.com">nottafybutreal@gmail.com</a><br>
   <strong>📱 WhatsApp:</strong> <a href="https://wa.me/923451565121">+92 345 156 5121</a><br>
-  <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/rafay-automation">linkedin.com/in/rafay-automation</a><br>
-  <strong>🐙 GitHub:</strong> <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a>
+  <strong>💼 LinkedIn:</strong> <a href=<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdul-rafay-200249421" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdul-rafay-200249421?trk=profile-badge">Abdul Rafay</a></div>
+              >linkedin.com/in/rafay-automation</a><br>
+  <strong>🐙 GitHub:</strong> <a href="https://github.com/rafay-u">github.com/YOUR_USERNAME</a>
 </p>
 
 ---
