@@ -176,7 +176,7 @@ cp -r hermes-memory-loop-goap ~/.hermes/profiles/<profile>/skills/autonomous-ai-
   <strong>📱 WhatsApp:</strong> <a href="https://wa.me/923451565121">+92 345 156 5121</a><br>
   <strong>💼 LinkedIn:</strong> <a href=<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdul-rafay-200249421" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdul-rafay-200249421?trk=profile-badge">Abdul Rafay</a></div>
               >linkedin.com/in/rafay-automation</a><br>
-  <strong>🐙 GitHub:</strong> <a href="https://github.com/rafay-u">github.com/YOUR_USERNAME</a>
+  <strong>🐙 GitHub:</strong> <a href="https://github.com/rafay-u">github.com/rafay-u</a>
 </p>
 
 ---
